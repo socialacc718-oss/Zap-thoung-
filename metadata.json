@@ -1,0 +1,6 @@
+{
+  "name": "ZAP THOUNG CAFÉ - Online Ordering",
+  "description": "Order delicious Chinese and Asian specialties online from Zap Thoung Café. Live cart, instant WhatsApp order slip generator, and fast delivery in Islamabad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
